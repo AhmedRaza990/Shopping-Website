@@ -1,0 +1,148 @@
+ /* body{ */
+ /* width: 100%; */
+ /* height: 10000px; */
+ /* } */
+
+
+
+ .navbar {
+     background-color: #D32F2F !important;
+
+ }
+
+ .nav-link {
+     color: aliceblue !important;
+     font-weight: bold !important;
+ }
+
+ .logo {
+     width: 156px;
+     width: 156px;
+ }
+
+
+ .fa-shopping-cart {
+     font-size: 22px !important;
+ }
+
+
+
+ .fa-user-circle-o {
+     font-size: 22px !important;
+ }
+
+
+ .fa-truck {
+     font-size: 50px !important;
+     margin-right: 10px;
+     color: #D32F2F;
+
+ }
+
+ .fa-thumbs-up {
+     font-size: 50px !important;
+     margin-right: 10px;
+     color: #D32F2F;
+ }
+
+ .card1,
+ .card3,
+ .card2 {
+     display: flex;
+     width: 300px;
+     height: 100px;
+     background-color: white;
+     box-shadow: 2px 4px 5px gray;
+     justify-content: center;
+     align-items: center;
+     margin-top: 10px;
+ }
+
+
+ .maincard {
+     margin-top: 35px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     flex-wrap: wrap;
+ }
+
+
+ .fa-headphones {
+     font-size: 50px !important;
+     margin-right: 10px;
+     color: #D32F2F;
+ }
+
+ h3 {
+     color: #D32F2F;
+ }
+
+
+ .NewArrivals {
+     margin-top: 50px;
+ }
+
+ .card {
+     width: 205px;
+     height: auto !important;
+     margin-bottom: 5px;
+     margin-top: 5px;
+ }
+
+ .card-text {
+     font-weight: bold;
+ }
+
+ .btn-primary {
+     width: 100%;
+     background-color: #D32F2F;
+ }
+
+ .card-img-top1,
+ .card-img-top2,
+ .card-img-top3,
+ .card-img-top4 {
+
+     width: 205px;
+     height: 205px;
+
+ }
+
+ .heading {
+     text-align: center;
+     font-weight: bolder;
+     color: #D32F2F;
+     margin: 20px;
+ }
+
+ .heading>h1 {
+     text-shadow: 3px 3px 5px black !important;
+ }
+
+
+ .footer{
+    width: 100%;
+    height: 60px;
+    
+    background-color: #D32F2F;
+ }
+ .footer > div{
+    text-align: center !important;
+    align-items: center;
+ }
+ h4{
+    color: white;
+ }
+
+
+ @media screen and (max-width: 599px) {
+
+     .card1,
+     .card2,
+     .card3 {
+         width: 100%;
+
+     }
+ }
+ 
